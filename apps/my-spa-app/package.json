@@ -1,0 +1,13 @@
+{
+  "name": "my-spa-app",
+  "version": "1.0.0",
+  "main": "src/main.tsx",
+  "dependencies": {
+    "@my-org/ui": "1.0.0",
+    "@my-org/http-adapter": "1.0.0",
+    "@my-org/helpers": "1.0.0"
+  },
+  "scripts": {
+    "dev": "vite"
+  }
+}
