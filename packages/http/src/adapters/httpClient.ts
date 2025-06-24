@@ -1,0 +1,1 @@
+export const httpClient = { get: (url: string) => fetch(url) };

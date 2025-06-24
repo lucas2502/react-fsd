@@ -1,0 +1,1 @@
+export const getUserList = async () => await Promise.resolve(['User1', 'User2']);
